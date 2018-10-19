@@ -1,0 +1,41 @@
+body
+{
+	font-family: arial, verdana;
+	font-size: 1.1rem;
+	line-height: 1.5;
+	max-width: 600px;
+	margin: auto;
+	padding: 40px;
+	background: #343d46;
+	color: #ddd;
+}
+
+img
+{
+	max-width: 600px;
+}
+
+.link, #index a
+{
+	color: orange;
+	text-decoration: none;
+}
+
+/* all titles */
+.cn, .atx, .ct
+{
+	color: #72b820;
+	font-size: 1.5rem;
+}
+
+/* chapter title */
+.imp
+{
+	font-size: 1.5rem;
+}
+
+/* subtitles */
+.atx
+{
+	/*display: none;*/
+}

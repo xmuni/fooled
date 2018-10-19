@@ -24,7 +24,8 @@ img
 /* all titles */
 .cn, .atx, .ct
 {
-	color: #72b820;
+	/*color: #72b820;*/
+	color: #63b0ff;
 	font-size: 1.5rem;
 }
 
